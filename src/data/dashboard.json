@@ -1,0 +1,168 @@
+{
+  "period": "month",
+  "revenue": 1240000,
+  "appointmentsCount": 207,
+  "averageCheck": 5990,
+  "newClients": 38,
+  "returningClients": 169,
+  "deltas": {
+    "revenue": 0.124,
+    "appointmentsCount": 0.082,
+    "averageCheck": 0.041,
+    "newClients": -0.053
+  },
+  "revenueByDay": [
+    {
+      "date": "2026-04-10",
+      "amount": 68297
+    },
+    {
+      "date": "2026-04-11",
+      "amount": 59598
+    },
+    {
+      "date": "2026-04-12",
+      "amount": 51899
+    },
+    {
+      "date": "2026-04-13",
+      "amount": 43200
+    },
+    {
+      "date": "2026-04-14",
+      "amount": 52501
+    },
+    {
+      "date": "2026-04-15",
+      "amount": 43802
+    },
+    {
+      "date": "2026-04-16",
+      "amount": 53103
+    },
+    {
+      "date": "2026-04-17",
+      "amount": 61404
+    },
+    {
+      "date": "2026-04-18",
+      "amount": 70705
+    },
+    {
+      "date": "2026-04-19",
+      "amount": 45006
+    },
+    {
+      "date": "2026-04-20",
+      "amount": 54307
+    },
+    {
+      "date": "2026-04-21",
+      "amount": 45608
+    },
+    {
+      "date": "2026-04-22",
+      "amount": 54909
+    },
+    {
+      "date": "2026-04-23",
+      "amount": 46210
+    },
+    {
+      "date": "2026-04-24",
+      "amount": 72511
+    },
+    {
+      "date": "2026-04-25",
+      "amount": 63812
+    },
+    {
+      "date": "2026-04-26",
+      "amount": 38113
+    },
+    {
+      "date": "2026-04-27",
+      "amount": 47414
+    },
+    {
+      "date": "2026-04-28",
+      "amount": 38715
+    },
+    {
+      "date": "2026-04-29",
+      "amount": 48016
+    },
+    {
+      "date": "2026-04-30",
+      "amount": 39317
+    },
+    {
+      "date": "2026-05-01",
+      "amount": 65618
+    },
+    {
+      "date": "2026-05-02",
+      "amount": 56919
+    },
+    {
+      "date": "2026-05-03",
+      "amount": 49220
+    },
+    {
+      "date": "2026-05-04",
+      "amount": 40521
+    },
+    {
+      "date": "2026-05-05",
+      "amount": 49822
+    },
+    {
+      "date": "2026-05-06",
+      "amount": 41123
+    },
+    {
+      "date": "2026-05-07",
+      "amount": 50424
+    },
+    {
+      "date": "2026-05-08",
+      "amount": 58725
+    },
+    {
+      "date": "2026-05-09",
+      "amount": 68026
+    }
+  ],
+  "sources": [
+    {
+      "channel": "phone",
+      "appointmentsCount": 51,
+      "revenue": 309000
+    },
+    {
+      "channel": "instagram",
+      "appointmentsCount": 47,
+      "revenue": 281000
+    },
+    {
+      "channel": "whatsapp",
+      "appointmentsCount": 38,
+      "revenue": 224000
+    },
+    {
+      "channel": "recommendations",
+      "appointmentsCount": 31,
+      "revenue": 186000
+    },
+    {
+      "channel": "twogis",
+      "appointmentsCount": 22,
+      "revenue": 132000
+    },
+    {
+      "channel": "yandex_maps",
+      "appointmentsCount": 18,
+      "revenue": 108000
+    }
+  ]
+}

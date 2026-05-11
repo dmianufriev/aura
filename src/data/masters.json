@@ -1,0 +1,57 @@
+[
+  {
+    "id": "m1",
+    "name": "Алина Сафронова",
+    "specialty": [
+      "Стрижки",
+      "Окрашивание",
+      "Мелирование"
+    ],
+    "revenue": 412000,
+    "margin": 0.64,
+    "load": 0.89,
+    "appointmentsCount": 67,
+    "avatar": "АС"
+  },
+  {
+    "id": "m2",
+    "name": "Мария Орлова",
+    "specialty": [
+      "Косметология",
+      "Чистки",
+      "Уходы"
+    ],
+    "revenue": 318000,
+    "margin": 0.58,
+    "load": 0.76,
+    "appointmentsCount": 53,
+    "avatar": "МО"
+  },
+  {
+    "id": "m3",
+    "name": "Полина Левина",
+    "specialty": [
+      "Маникюр",
+      "Педикюр",
+      "Дизайн"
+    ],
+    "revenue": 285000,
+    "margin": 0.51,
+    "load": 0.82,
+    "appointmentsCount": 48,
+    "avatar": "ПЛ"
+  },
+  {
+    "id": "m4",
+    "name": "Катя Романова",
+    "specialty": [
+      "Брови",
+      "Ресницы"
+    ],
+    "revenue": 225000,
+    "margin": 0.12,
+    "load": 0.41,
+    "appointmentsCount": 39,
+    "avatar": "КР"
+  }
+]

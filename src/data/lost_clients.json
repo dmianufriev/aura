@@ -1,0 +1,425 @@
+[
+  {
+    "id": "lc1",
+    "name": "Анна Петрова",
+    "lastService": "Окрашивание",
+    "daysSinceLastVisit": 32,
+    "averageCheck": 8500,
+    "recommendedMessage": "Анна, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc2",
+    "name": "Мария Иванова",
+    "lastService": "Стрижка",
+    "daysSinceLastVisit": 33,
+    "averageCheck": 3500,
+    "recommendedMessage": "Мария, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc3",
+    "name": "Ольга Сидорова",
+    "lastService": "Маникюр",
+    "daysSinceLastVisit": 34,
+    "averageCheck": 2800,
+    "recommendedMessage": "Ольга, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc4",
+    "name": "Татьяна Смирнова",
+    "lastService": "Косметология",
+    "daysSinceLastVisit": 35,
+    "averageCheck": 6500,
+    "recommendedMessage": "Татьяна, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc5",
+    "name": "Светлана Кузнецова",
+    "lastService": "Брови",
+    "daysSinceLastVisit": 36,
+    "averageCheck": 2000,
+    "recommendedMessage": "Светлана, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc6",
+    "name": "Ирина Попова",
+    "lastService": "Мелирование",
+    "daysSinceLastVisit": 37,
+    "averageCheck": 12000,
+    "recommendedMessage": "Ирина, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc7",
+    "name": "Юлия Соколова",
+    "lastService": "Укладка",
+    "daysSinceLastVisit": 38,
+    "averageCheck": 1800,
+    "recommendedMessage": "Юлия, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc8",
+    "name": "Дарья Лебедева",
+    "lastService": "Педикюр",
+    "daysSinceLastVisit": 39,
+    "averageCheck": 3200,
+    "recommendedMessage": "Дарья, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc9",
+    "name": "Алёна Козлова",
+    "lastService": "Окрашивание",
+    "daysSinceLastVisit": 40,
+    "averageCheck": 8500,
+    "recommendedMessage": "Алёна, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc10",
+    "name": "Виктория Новикова",
+    "lastService": "Стрижка",
+    "daysSinceLastVisit": 41,
+    "averageCheck": 3500,
+    "recommendedMessage": "Виктория, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc11",
+    "name": "Наталья Морозова",
+    "lastService": "Маникюр",
+    "daysSinceLastVisit": 42,
+    "averageCheck": 2800,
+    "recommendedMessage": "Наталья, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc12",
+    "name": "Екатерина Волкова",
+    "lastService": "Косметология",
+    "daysSinceLastVisit": 43,
+    "averageCheck": 6500,
+    "recommendedMessage": "Екатерина, давно вас не было ✨ Записать вас к Алине на стрижку на этой неделе?",
+    "segment": "30+"
+  },
+  {
+    "id": "lc13",
+    "name": "Елена Соловьёва",
+    "lastService": "Брови",
+    "daysSinceLastVisit": 62,
+    "averageCheck": 2000,
+    "recommendedMessage": "Елена, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc14",
+    "name": "Лариса Васильева",
+    "lastService": "Мелирование",
+    "daysSinceLastVisit": 63,
+    "averageCheck": 12000,
+    "recommendedMessage": "Лариса, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc15",
+    "name": "Полина Зайцева",
+    "lastService": "Укладка",
+    "daysSinceLastVisit": 64,
+    "averageCheck": 1800,
+    "recommendedMessage": "Полина, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc16",
+    "name": "Кристина Павлова",
+    "lastService": "Педикюр",
+    "daysSinceLastVisit": 65,
+    "averageCheck": 3200,
+    "recommendedMessage": "Кристина, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc17",
+    "name": "Ксения Семёнова",
+    "lastService": "Окрашивание",
+    "daysSinceLastVisit": 66,
+    "averageCheck": 8500,
+    "recommendedMessage": "Ксения, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc18",
+    "name": "Анастасия Голубева",
+    "lastService": "Стрижка",
+    "daysSinceLastVisit": 67,
+    "averageCheck": 3500,
+    "recommendedMessage": "Анастасия, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc19",
+    "name": "Софья Виноградова",
+    "lastService": "Маникюр",
+    "daysSinceLastVisit": 68,
+    "averageCheck": 2800,
+    "recommendedMessage": "Софья, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc20",
+    "name": "Алина Богданова",
+    "lastService": "Косметология",
+    "daysSinceLastVisit": 69,
+    "averageCheck": 6500,
+    "recommendedMessage": "Алина, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc21",
+    "name": "Александра Воробьёва",
+    "lastService": "Брови",
+    "daysSinceLastVisit": 70,
+    "averageCheck": 2000,
+    "recommendedMessage": "Александра, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc22",
+    "name": "Валентина Фёдорова",
+    "lastService": "Мелирование",
+    "daysSinceLastVisit": 71,
+    "averageCheck": 12000,
+    "recommendedMessage": "Валентина, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc23",
+    "name": "Надежда Михайлова",
+    "lastService": "Укладка",
+    "daysSinceLastVisit": 72,
+    "averageCheck": 1800,
+    "recommendedMessage": "Надежда, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc24",
+    "name": "Лидия Беляева",
+    "lastService": "Педикюр",
+    "daysSinceLastVisit": 73,
+    "averageCheck": 3200,
+    "recommendedMessage": "Лидия, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc25",
+    "name": "Зоя Тарасова",
+    "lastService": "Окрашивание",
+    "daysSinceLastVisit": 74,
+    "averageCheck": 8500,
+    "recommendedMessage": "Зоя, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc26",
+    "name": "Ангелина Белова",
+    "lastService": "Стрижка",
+    "daysSinceLastVisit": 75,
+    "averageCheck": 3500,
+    "recommendedMessage": "Ангелина, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc27",
+    "name": "Маргарита Комарова",
+    "lastService": "Маникюр",
+    "daysSinceLastVisit": 76,
+    "averageCheck": 2800,
+    "recommendedMessage": "Маргарита, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc28",
+    "name": "Любовь Орлова",
+    "lastService": "Косметология",
+    "daysSinceLastVisit": 77,
+    "averageCheck": 6500,
+    "recommendedMessage": "Любовь, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc29",
+    "name": "Галина Киселёва",
+    "lastService": "Брови",
+    "daysSinceLastVisit": 78,
+    "averageCheck": 2000,
+    "recommendedMessage": "Галина, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc30",
+    "name": "Раиса Макарова",
+    "lastService": "Мелирование",
+    "daysSinceLastVisit": 79,
+    "averageCheck": 12000,
+    "recommendedMessage": "Раиса, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc31",
+    "name": "Зинаида Андреева",
+    "lastService": "Укладка",
+    "daysSinceLastVisit": 80,
+    "averageCheck": 1800,
+    "recommendedMessage": "Зинаида, прошло 2 месяца с последнего визита. Дарим скидку 15% на любую услугу до пятницы — записать?",
+    "segment": "60+"
+  },
+  {
+    "id": "lc32",
+    "name": "Тамара Ковалёва",
+    "lastService": "Педикюр",
+    "daysSinceLastVisit": 92,
+    "averageCheck": 3200,
+    "recommendedMessage": "Тамара, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc33",
+    "name": "Вероника Ильина",
+    "lastService": "Окрашивание",
+    "daysSinceLastVisit": 93,
+    "averageCheck": 8500,
+    "recommendedMessage": "Вероника, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc34",
+    "name": "Карина Гусева",
+    "lastService": "Стрижка",
+    "daysSinceLastVisit": 94,
+    "averageCheck": 3500,
+    "recommendedMessage": "Карина, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc35",
+    "name": "Эльвира Титова",
+    "lastService": "Маникюр",
+    "daysSinceLastVisit": 95,
+    "averageCheck": 2800,
+    "recommendedMessage": "Эльвира, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc36",
+    "name": "Алла Кудрявцева",
+    "lastService": "Косметология",
+    "daysSinceLastVisit": 96,
+    "averageCheck": 6500,
+    "recommendedMessage": "Алла, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc37",
+    "name": "Нина Баранова",
+    "lastService": "Брови",
+    "daysSinceLastVisit": 97,
+    "averageCheck": 2000,
+    "recommendedMessage": "Нина, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc38",
+    "name": "Лилия Куликова",
+    "lastService": "Мелирование",
+    "daysSinceLastVisit": 98,
+    "averageCheck": 12000,
+    "recommendedMessage": "Лилия, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc39",
+    "name": "Жанна Алексеева",
+    "lastService": "Укладка",
+    "daysSinceLastVisit": 99,
+    "averageCheck": 1800,
+    "recommendedMessage": "Жанна, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc40",
+    "name": "Стелла Степанова",
+    "lastService": "Педикюр",
+    "daysSinceLastVisit": 100,
+    "averageCheck": 3200,
+    "recommendedMessage": "Стелла, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc41",
+    "name": "Регина Яковлева",
+    "lastService": "Окрашивание",
+    "daysSinceLastVisit": 101,
+    "averageCheck": 8500,
+    "recommendedMessage": "Регина, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc42",
+    "name": "Эльмира Сорокина",
+    "lastService": "Стрижка",
+    "daysSinceLastVisit": 102,
+    "averageCheck": 3500,
+    "recommendedMessage": "Эльмира, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc43",
+    "name": "Дина Сергеева",
+    "lastService": "Маникюр",
+    "daysSinceLastVisit": 103,
+    "averageCheck": 2800,
+    "recommendedMessage": "Дина, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc44",
+    "name": "Инна Романова",
+    "lastService": "Косметология",
+    "daysSinceLastVisit": 104,
+    "averageCheck": 6500,
+    "recommendedMessage": "Инна, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc45",
+    "name": "Майя Захарова",
+    "lastService": "Брови",
+    "daysSinceLastVisit": 105,
+    "averageCheck": 2000,
+    "recommendedMessage": "Майя, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc46",
+    "name": "Снежана Борисова",
+    "lastService": "Мелирование",
+    "daysSinceLastVisit": 106,
+    "averageCheck": 12000,
+    "recommendedMessage": "Снежана, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  },
+  {
+    "id": "lc47",
+    "name": "Виолетта Королёва",
+    "lastService": "Укладка",
+    "daysSinceLastVisit": 107,
+    "averageCheck": 1800,
+    "recommendedMessage": "Виолетта, скучаем 💔 Возвращайтесь — для вас 20% от общего чека на этой неделе.",
+    "segment": "90+"
+  }
+]

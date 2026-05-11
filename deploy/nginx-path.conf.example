@@ -1,0 +1,12 @@
+# Блок для встраивания в существующий server { ... } домена.
+# Сборка должна быть с VITE_BASE=/aura/
+
+location /aura/ {
+    alias /var/www/aura/;
+    try_files $uri $uri/ /aura/index.html;
+
+    location ~* /aura/.*\.(?:js|css|svg|woff2?|png|jpg|jpeg|webp|ico)$ {
+        expires 30d;
+        add_header Cache-Control "public, immutable";
+    }
+}

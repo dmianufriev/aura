@@ -1,0 +1,35 @@
+# Конфиг для поддомена aura.your-domain.ru
+# Положи в /etc/nginx/sites-available/aura
+# ln -s /etc/nginx/sites-available/aura /etc/nginx/sites-enabled/
+# nginx -t && systemctl reload nginx
+# Затем: certbot --nginx -d aura.your-domain.ru
+
+server {
+    listen 80;
+    server_name aura.your-domain.ru;
+
+    root /var/www/aura;
+    index index.html;
+
+    # SPA-роутинг
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+
+    # Кэш статики
+    location ~* \.(?:js|css|svg|woff2?|png|jpg|jpeg|webp|ico)$ {
+        expires 30d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Безопасность
+    add_header X-Frame-Options "SAMEORIGIN" always;
+    add_header X-Content-Type-Options "nosniff" always;
+    add_header Referrer-Policy "strict-origin-when-cross-origin" always;
+
+    # Gzip
+    gzip on;
+    gzip_vary on;
+    gzip_min_length 1000;
+    gzip_types text/plain text/css application/json application/javascript image/svg+xml;
+}
