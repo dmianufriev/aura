@@ -1,0 +1,50 @@
+[
+  {
+    "id": "lp1",
+    "kind": "bonus",
+    "name": "Кэшбэк-программа AURA",
+    "description": "Начисление 7% от каждой услуги, списание до 30% от чека.",
+    "rule": "7% начисление · до 30% списание · сгорание через 12 мес",
+    "participants": 482,
+    "totalIssued": 1284500,
+    "redeemed": 624000,
+    "totalValueRub": 660500,
+    "active": true
+  },
+  {
+    "id": "lp2",
+    "kind": "deposit",
+    "name": "Депозит +15%",
+    "description": "Клиент пополняет личный счёт от 10к — получает +15% бонусом.",
+    "rule": "от 10 000 ₽ · +15% к балансу · без срока сгорания",
+    "participants": 47,
+    "totalIssued": 890000,
+    "redeemed": 312000,
+    "totalValueRub": 578000,
+    "active": true
+  },
+  {
+    "id": "lp3",
+    "kind": "certificate",
+    "name": "Подарочные сертификаты",
+    "description": "Электронные сертификаты на сумму, действуют 6 месяцев.",
+    "rule": "номиналы 3к/5к/10к/15к · 6 мес действия",
+    "participants": 0,
+    "totalIssued": 142,
+    "redeemed": 89,
+    "totalValueRub": 612000,
+    "active": true
+  },
+  {
+    "id": "lp4",
+    "kind": "subscription",
+    "name": "Абонементы на 4/8/12 визитов",
+    "description": "Пакеты на маникюр и косметологию со скидкой 15-25%.",
+    "rule": "4 визита −15% · 8 визитов −20% · 12 визитов −25%",
+    "participants": 38,
+    "totalIssued": 84,
+    "redeemed": 211,
+    "totalValueRub": 412000,
+    "active": true
+  }
+]

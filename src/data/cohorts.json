@@ -1,0 +1,86 @@
+[
+  {
+    "month": "окт 25",
+    "cohortSize": 28,
+    "retention": [
+      100,
+      65,
+      53,
+      47,
+      41,
+      35,
+      29,
+      23
+    ]
+  },
+  {
+    "month": "ноя 25",
+    "cohortSize": 41,
+    "retention": [
+      100,
+      64,
+      51,
+      44,
+      37,
+      30,
+      23
+    ]
+  },
+  {
+    "month": "дек 25",
+    "cohortSize": 32,
+    "retention": [
+      100,
+      63,
+      49,
+      41,
+      33,
+      25
+    ]
+  },
+  {
+    "month": "янв 26",
+    "cohortSize": 45,
+    "retention": [
+      100,
+      65,
+      53,
+      47,
+      41
+    ]
+  },
+  {
+    "month": "фев 26",
+    "cohortSize": 36,
+    "retention": [
+      100,
+      64,
+      51,
+      44
+    ]
+  },
+  {
+    "month": "мар 26",
+    "cohortSize": 49,
+    "retention": [
+      100,
+      63,
+      49
+    ]
+  },
+  {
+    "month": "апр 26",
+    "cohortSize": 40,
+    "retention": [
+      100,
+      65
+    ]
+  },
+  {
+    "month": "май 26",
+    "cohortSize": 31,
+    "retention": [
+      100
+    ]
+  }
+]

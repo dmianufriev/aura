@@ -1,0 +1,98 @@
+[
+  {
+    "id": "s1",
+    "name": "Стрижка женская",
+    "category": "Парикмахер",
+    "price": 3500,
+    "duration": 60,
+    "cogs": 200
+  },
+  {
+    "id": "s2",
+    "name": "Окрашивание",
+    "category": "Парикмахер",
+    "price": 8500,
+    "duration": 120,
+    "cogs": 1800
+  },
+  {
+    "id": "s3",
+    "name": "Мелирование",
+    "category": "Парикмахер",
+    "price": 12000,
+    "duration": 180,
+    "cogs": 2400
+  },
+  {
+    "id": "s4",
+    "name": "Укладка",
+    "category": "Парикмахер",
+    "price": 1800,
+    "duration": 45,
+    "cogs": 150
+  },
+  {
+    "id": "s5",
+    "name": "Маникюр классический",
+    "category": "Ногти",
+    "price": 2800,
+    "duration": 60,
+    "cogs": 250
+  },
+  {
+    "id": "s6",
+    "name": "Маникюр с покрытием",
+    "category": "Ногти",
+    "price": 3500,
+    "duration": 90,
+    "cogs": 400
+  },
+  {
+    "id": "s7",
+    "name": "Педикюр",
+    "category": "Ногти",
+    "price": 3200,
+    "duration": 75,
+    "cogs": 300
+  },
+  {
+    "id": "s8",
+    "name": "Чистка лица",
+    "category": "Косметология",
+    "price": 6500,
+    "duration": 90,
+    "cogs": 900
+  },
+  {
+    "id": "s9",
+    "name": "Пилинг",
+    "category": "Косметология",
+    "price": 5500,
+    "duration": 60,
+    "cogs": 800
+  },
+  {
+    "id": "s10",
+    "name": "Коррекция бровей",
+    "category": "Брови и ресницы",
+    "price": 2000,
+    "duration": 30,
+    "cogs": 100
+  },
+  {
+    "id": "s11",
+    "name": "Окрашивание бровей",
+    "category": "Брови и ресницы",
+    "price": 1500,
+    "duration": 30,
+    "cogs": 80
+  },
+  {
+    "id": "s12",
+    "name": "Наращивание ресниц",
+    "category": "Брови и ресницы",
+    "price": 4500,
+    "duration": 120,
+    "cogs": 600
+  }
+]

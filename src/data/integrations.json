@@ -1,0 +1,98 @@
+[
+  {
+    "id": "int1",
+    "name": "WhatsApp Business API",
+    "description": "Автоответы и рассылки через официальный API Meta",
+    "category": "messengers",
+    "connected": true,
+    "icon": "🟢"
+  },
+  {
+    "id": "int2",
+    "name": "Telegram Bot",
+    "description": "Бот для записи и ответов клиентам в Telegram",
+    "category": "messengers",
+    "connected": true,
+    "icon": "✈️"
+  },
+  {
+    "id": "int3",
+    "name": "Instagram Direct",
+    "description": "Получение сообщений из Direct и автоответы AI",
+    "category": "messengers",
+    "connected": true,
+    "icon": "📸"
+  },
+  {
+    "id": "int4",
+    "name": "1С: Бухгалтерия",
+    "description": "Выгрузка операций для бухгалтерии и налогов",
+    "category": "crm",
+    "connected": true,
+    "icon": "1C"
+  },
+  {
+    "id": "int5",
+    "name": "YClients",
+    "description": "Двунаправленная синхронизация записи и клиентов",
+    "category": "crm",
+    "connected": false,
+    "icon": "Y"
+  },
+  {
+    "id": "int6",
+    "name": "Сбербанк Эквайринг",
+    "description": "Приём платежей через POS-терминал и онлайн",
+    "category": "payments",
+    "connected": true,
+    "icon": "💳"
+  },
+  {
+    "id": "int7",
+    "name": "Тинькофф Касса",
+    "description": "Онлайн-оплата при бронировании",
+    "category": "payments",
+    "connected": true,
+    "icon": "💳"
+  },
+  {
+    "id": "int8",
+    "name": "Яндекс.Карты",
+    "description": "Размещение профиля и кнопка «записаться»",
+    "category": "marketing",
+    "connected": true,
+    "icon": "📍"
+  },
+  {
+    "id": "int9",
+    "name": "2ГИС",
+    "description": "Профиль и онлайн-запись в 2ГИС",
+    "category": "marketing",
+    "connected": true,
+    "icon": "🗺"
+  },
+  {
+    "id": "int10",
+    "name": "Yandex Metrika",
+    "description": "Аналитика посетителей сайта и виджета",
+    "category": "analytics",
+    "connected": true,
+    "icon": "📊"
+  },
+  {
+    "id": "int11",
+    "name": "Сбер Бизнес Бот",
+    "description": "Уведомления о платежах в Telegram",
+    "category": "payments",
+    "connected": false,
+    "icon": "🤖"
+  },
+  {
+    "id": "int12",
+    "name": "ВКонтакте",
+    "description": "Сообщения сообщества с автоответами",
+    "category": "messengers",
+    "connected": false,
+    "icon": "💙"
+  }
+]

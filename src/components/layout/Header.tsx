@@ -2,55 +2,63 @@ import { NavLink, useNavigate } from "react-router-dom";
 import { useRole } from "@/contexts/RoleContext";
 import { salonConfig } from "@/config/salon.config";
 import { cn } from "@/lib/utils";
-import { Menu, X } from "lucide-react";
-import { useState } from "react";
+import { Menu, Bell, Search } from "lucide-react";
+import { Button } from "@/components/ui/button";
 
-const ownerLinks = [
-  { to: "/", label: "Дашборд", end: true },
-  { to: "/inbox", label: "Инбокс" },
-  { to: "/reactivation", label: "Возврат" },
-];
+interface HeaderProps {
+  onToggleNav?: () => void;
+  showHamburger?: boolean;
+}
 
-export function Header() {
+export function Header({ onToggleNav, showHamburger }: HeaderProps) {
   const { role, setRole } = useRole();
   const navigate = useNavigate();
-  const [open, setOpen] = useState(false);
 
   function switchRole(next: "owner" | "client") {
     setRole(next);
     navigate(next === "client" ? "/client" : "/");
-    setOpen(false);
   }
 
   return (
     <header className="sticky top-0 z-40 h-16 border-b border-border bg-background/85 backdrop-blur-md">
-      <div className="mx-auto flex h-full max-w-7xl items-center gap-4 px-4 md:px-6">
+      <div className="flex h-full items-center gap-3 px-4 md:px-6">
+        {showHamburger && role === "owner" && (
+          <button
+            type="button"
+            onClick={onToggleNav}
+            className="lg:hidden h-9 w-9 inline-flex items-center justify-center rounded-md hover:bg-muted"
+            aria-label="Меню"
+          >
+            <Menu className="h-5 w-5" />
+          </button>
+        )}
+
         <NavLink to="/" className="flex items-center gap-2 font-heading font-bold text-lg">
           <span className="text-2xl">{salonConfig.emoji}</span>
           <span className="hidden sm:inline">{salonConfig.name}</span>
         </NavLink>
 
         {role === "owner" && (
-          <nav className="hidden md:flex items-center gap-1 ml-6">
-            {ownerLinks.map((l) => (
-              <NavLink
-                key={l.to}
-                to={l.to}
-                end={l.end}
-                className={({ isActive }) =>
-                  cn(
-                    "px-3 py-2 rounded-md text-sm font-medium transition-colors",
-                    isActive ? "text-foreground bg-primary/10" : "text-muted-foreground hover:text-foreground"
-                  )
-                }
-              >
-                {l.label}
-              </NavLink>
-            ))}
-          </nav>
+          <div className="hidden lg:flex items-center gap-2 flex-1 max-w-md ml-6">
+            <div className="relative w-full">
+              <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+              <input
+                type="text"
+                placeholder="Поиск клиента, услуги, мастера..."
+                className="w-full h-9 pl-9 pr-3 rounded-md border border-border bg-card text-sm focus:outline-none focus:ring-2 focus:ring-primary/30"
+              />
+            </div>
+          </div>
         )}
 
         <div className="flex-1" />
+
+        {role === "owner" && (
+          <Button variant="ghost" size="icon" aria-label="Уведомления" className="relative">
+            <Bell className="h-5 w-5" />
+            <span className="absolute top-1.5 right-1.5 h-2 w-2 rounded-full bg-red-500" />
+          </Button>
+        )}
 
         <div className="inline-flex h-9 items-center rounded-full bg-muted p-1 text-sm font-medium">
           <button
@@ -74,41 +82,7 @@ export function Header() {
             👤 Клиент
           </button>
         </div>
-
-        {role === "owner" && (
-          <button
-            type="button"
-            onClick={() => setOpen((v) => !v)}
-            className="md:hidden h-9 w-9 inline-flex items-center justify-center rounded-md hover:bg-muted"
-            aria-label="Меню"
-          >
-            {open ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
-          </button>
-        )}
       </div>
-
-      {open && role === "owner" && (
-        <div className="md:hidden border-t border-border bg-background">
-          <nav className="mx-auto max-w-7xl flex flex-col p-2">
-            {ownerLinks.map((l) => (
-              <NavLink
-                key={l.to}
-                to={l.to}
-                end={l.end}
-                onClick={() => setOpen(false)}
-                className={({ isActive }) =>
-                  cn(
-                    "px-4 py-3 rounded-md text-sm",
-                    isActive ? "bg-primary/10 text-foreground font-medium" : "text-muted-foreground"
-                  )
-                }
-              >
-                {l.label}
-              </NavLink>
-            ))}
-          </nav>
-        </div>
-      )}
     </header>
   );
 }

@@ -1,0 +1,42 @@
+[
+  {
+    "masterId": "m1",
+    "masterName": "Алина Сафронова",
+    "masterAvatar": "АС",
+    "appointments": 67,
+    "revenue": 412000,
+    "ratePercent": 0.5,
+    "bonus": 15000,
+    "payout": 221000
+  },
+  {
+    "masterId": "m2",
+    "masterName": "Мария Орлова",
+    "masterAvatar": "МО",
+    "appointments": 53,
+    "revenue": 318000,
+    "ratePercent": 0.5,
+    "bonus": 8000,
+    "payout": 167000
+  },
+  {
+    "masterId": "m3",
+    "masterName": "Полина Левина",
+    "masterAvatar": "ПЛ",
+    "appointments": 48,
+    "revenue": 285000,
+    "ratePercent": 0.5,
+    "bonus": 0,
+    "payout": 142500
+  },
+  {
+    "masterId": "m4",
+    "masterName": "Катя Романова",
+    "masterAvatar": "КР",
+    "appointments": 39,
+    "revenue": 225000,
+    "ratePercent": 0.4,
+    "bonus": 0,
+    "payout": 90000
+  }
+]

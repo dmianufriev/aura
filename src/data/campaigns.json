@@ -1,0 +1,106 @@
+[
+  {
+    "id": "mc1",
+    "name": "Приветственная серия (новый клиент)",
+    "trigger": "first_visit",
+    "channel": "whatsapp",
+    "audienceSize": 38,
+    "sentCount": 36,
+    "openRate": 0.92,
+    "conversionRate": 0.41,
+    "revenue": 87000,
+    "active": true,
+    "template": "Привет, {имя}! Спасибо, что выбрали Студию Аура 💎 Дарим −10% на следующий визит в течение 14 дней. Записаться: aura.studio/book"
+  },
+  {
+    "id": "mc2",
+    "name": "С Днём рождения 🎂",
+    "trigger": "birthday",
+    "channel": "whatsapp",
+    "audienceSize": 12,
+    "sentCount": 12,
+    "openRate": 1,
+    "conversionRate": 0.75,
+    "revenue": 64000,
+    "active": true,
+    "template": "{имя}, с Днём рождения! 🎂 Дарим 1 000 ₽ на бонусный счёт + комплимент-укладка к любой услуге в этом месяце."
+  },
+  {
+    "id": "mc3",
+    "name": "После визита — собрать отзыв",
+    "trigger": "after_visit",
+    "channel": "telegram",
+    "audienceSize": 207,
+    "sentCount": 198,
+    "openRate": 0.87,
+    "conversionRate": 0.62,
+    "revenue": 0,
+    "active": true,
+    "template": "{имя}, как прошёл визит к {мастер}? Поделитесь впечатлением — это поможет нам стать лучше. Жмите 👇"
+  },
+  {
+    "id": "mc4",
+    "name": "Спящие 30+ дней",
+    "trigger": "sleeping_30",
+    "channel": "whatsapp",
+    "audienceSize": 12,
+    "sentCount": 12,
+    "openRate": 0.83,
+    "conversionRate": 0.35,
+    "revenue": 51000,
+    "active": true,
+    "template": "{имя}, давно вас не было ✨ Записать вас к {мастер} на этой неделе?",
+    "abTest": {
+      "variantA": {
+        "name": "Без скидки",
+        "openRate": 0.83,
+        "conversion": 0.31
+      },
+      "variantB": {
+        "name": "Со скидкой 10%",
+        "openRate": 0.87,
+        "conversion": 0.38
+      },
+      "winner": "B"
+    }
+  },
+  {
+    "id": "mc5",
+    "name": "Спящие 60+ дней",
+    "trigger": "sleeping_60",
+    "channel": "whatsapp",
+    "audienceSize": 19,
+    "sentCount": 19,
+    "openRate": 0.74,
+    "conversionRate": 0.26,
+    "revenue": 96000,
+    "active": true,
+    "template": "{имя}, прошло 2 месяца. Дарим −15% на любую услугу до пятницы."
+  },
+  {
+    "id": "mc6",
+    "name": "Спящие 90+ дней",
+    "trigger": "sleeping_90",
+    "channel": "sms",
+    "audienceSize": 16,
+    "sentCount": 16,
+    "openRate": 0.61,
+    "conversionRate": 0.18,
+    "revenue": 63000,
+    "active": true,
+    "template": "{имя}, скучаем 💔 Для вас −20% от общего чека."
+  },
+  {
+    "id": "mc7",
+    "name": "Годовщина первого визита",
+    "trigger": "anniversary",
+    "channel": "whatsapp",
+    "audienceSize": 24,
+    "sentCount": 24,
+    "openRate": 0.96,
+    "conversionRate": 0.58,
+    "revenue": 121000,
+    "active": false,
+    "template": "{имя}, ровно год назад вы пришли к нам первый раз 🌷 Дарим 2 000 ₽ на бонусный счёт."
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "monthRevenue": 1240000,
+  "monthCOGS": 173600,
+  "monthPayroll": 620500,
+  "monthRent": 180000,
+  "monthMarketing": 35000,
+  "monthOther": 28000,
+  "monthTaxes": 74400,
+  "monthProfit": 128500,
+  "marginPercent": 0.10362903225806451,
+  "forecastNextMonth": 1339200,
+  "cashflowByDay": [
+    {
+      "date": "2026-04-10",
+      "income": 55000,
+      "expense": 90000
+    },
+    {
+      "date": "2026-04-11",
+      "income": 56000,
+      "expense": 12300
+    },
+    {
+      "date": "2026-04-12",
+      "income": 39400,
+      "expense": 12600
+    },
+    {
+      "date": "2026-04-13",
+      "income": 40100,
+      "expense": 12900
+    },
+    {
+      "date": "2026-04-14",
+      "income": 40800,
+      "expense": 13200
+    },
+    {
+      "date": "2026-04-15",
+      "income": 41500,
+      "expense": 13500
+    },
+    {
+      "date": "2026-04-16",
+      "income": 42200,
+      "expense": 13800
+    },
+    {
+      "date": "2026-04-17",
+      "income": 62000,
+      "expense": 97000
+    },
+    {
+      "date": "2026-04-18",
+      "income": 63000,
+      "expense": 14400
+    },
+    {
+      "date": "2026-04-19",
+      "income": 44300,
+      "expense": 14700
+    },
+    {
+      "date": "2026-04-20",
+      "income": 45000,
+      "expense": 15000
+    },
+    {
+      "date": "2026-04-21",
+      "income": 45700,
+      "expense": 15300
+    },
+    {
+      "date": "2026-04-22",
+      "income": 46400,
+      "expense": 15600
+    },
+    {
+      "date": "2026-04-23",
+      "income": 47100,
+      "expense": 15900
+    },
+    {
+      "date": "2026-04-24",
+      "income": 69000,
+      "expense": 104000
+    },
+    {
+      "date": "2026-04-25",
+      "income": 70000,
+      "expense": 16500
+    },
+    {
+      "date": "2026-04-26",
+      "income": 49200,
+      "expense": 16800
+    },
+    {
+      "date": "2026-04-27",
+      "income": 49900,
+      "expense": 17100
+    },
+    {
+      "date": "2026-04-28",
+      "income": 38600,
+      "expense": 17400
+    },
+    {
+      "date": "2026-04-29",
+      "income": 39300,
+      "expense": 17700
+    },
+    {
+      "date": "2026-04-30",
+      "income": 40000,
+      "expense": 12000
+    },
+    {
+      "date": "2026-05-01",
+      "income": 58000,
+      "expense": 91000
+    },
+    {
+      "date": "2026-05-02",
+      "income": 59000,
+      "expense": 12600
+    },
+    {
+      "date": "2026-05-03",
+      "income": 42100,
+      "expense": 12900
+    },
+    {
+      "date": "2026-05-04",
+      "income": 42800,
+      "expense": 13200
+    },
+    {
+      "date": "2026-05-05",
+      "income": 43500,
+      "expense": 13500
+    },
+    {
+      "date": "2026-05-06",
+      "income": 44200,
+      "expense": 13800
+    },
+    {
+      "date": "2026-05-07",
+      "income": 44900,
+      "expense": 14100
+    },
+    {
+      "date": "2026-05-08",
+      "income": 65000,
+      "expense": 98000
+    },
+    {
+      "date": "2026-05-09",
+      "income": 66000,
+      "expense": 14700
+    }
+  ],
+  "expensesBreakdown": [
+    {
+      "category": "ЗП мастеров",
+      "amount": 620500
+    },
+    {
+      "category": "Расходники",
+      "amount": 173600
+    },
+    {
+      "category": "Аренда",
+      "amount": 180000
+    },
+    {
+      "category": "Налоги (6%)",
+      "amount": 74400
+    },
+    {
+      "category": "Маркетинг",
+      "amount": 35000
+    },
+    {
+      "category": "Прочее (вода, химия, IT)",
+      "amount": 28000
+    }
+  ]
+}

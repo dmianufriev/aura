@@ -1,0 +1,4618 @@
+[
+  {
+    "id": "cl1",
+    "name": "Анна Петрова",
+    "phone": "+7 (910) 100-10-10",
+    "avatar": "АП",
+    "email": "анна.петрова@mail.ru",
+    "birthday": "1965-01-01",
+    "firstVisit": "2026-02-03",
+    "lastVisit": "2026-05-04",
+    "totalVisits": 1,
+    "totalSpent": 2800,
+    "averageCheck": 2800,
+    "ltv": 82800,
+    "segment": "vip",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Стрижка женская",
+      "Укладка"
+    ],
+    "bonusBalance": 4200,
+    "depositBalance": 0,
+    "noShowCount": 1,
+    "blacklisted": false,
+    "notes": "Аллергия на парабены — использовать только серию Davines OI",
+    "visitHistory": [
+      {
+        "date": "2026-05-04",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl2",
+    "name": "Мария Иванова",
+    "phone": "+7 (911) 107-23-27",
+    "avatar": "МИ",
+    "email": "мария.иванова@mail.ru",
+    "birthday": "1966-02-02",
+    "firstVisit": "2026-01-20",
+    "lastVisit": "2026-04-21",
+    "totalVisits": 8,
+    "totalSpent": 24888,
+    "averageCheck": 3111,
+    "ltv": 44888,
+    "segment": "regular",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Окрашивание",
+      "Маникюр классический"
+    ],
+    "bonusBalance": 53,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-21",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-22",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-20",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-21",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-22",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2025-11-22",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-23",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-23",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl3",
+    "name": "Ольга Сидорова",
+    "phone": "+7 (912) 114-36-44",
+    "avatar": "ОС",
+    "email": "ольга.сидорова@mail.ru",
+    "birthday": "1967-03-03",
+    "firstVisit": "2026-01-18",
+    "lastVisit": "2026-04-20",
+    "totalVisits": 15,
+    "totalSpent": 51330,
+    "averageCheck": 3422,
+    "ltv": 71330,
+    "segment": "regular",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Мелирование",
+      "Маникюр с покрытием"
+    ],
+    "bonusBalance": 106,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-20",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-21",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-19",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-20",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2025-12-21",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-21",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-22",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-22",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl4",
+    "name": "Татьяна Смирнова",
+    "phone": "+7 (913) 121-49-61",
+    "avatar": "ТС",
+    "email": "татьяна.смирнова@mail.ru",
+    "birthday": "1968-04-04",
+    "firstVisit": "2026-01-16",
+    "lastVisit": "2026-04-19",
+    "totalVisits": 22,
+    "totalSpent": 82126,
+    "averageCheck": 3733,
+    "ltv": 102126,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Укладка",
+      "Педикюр"
+    ],
+    "bonusBalance": 159,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-19",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-20",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-18",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-19",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-20",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-20",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-21",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-21",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl5",
+    "name": "Светлана Кузнецова",
+    "phone": "+7 (914) 128-62-78",
+    "avatar": "СК",
+    "email": "светлана.кузнецова@mail.ru",
+    "birthday": "1969-05-05",
+    "firstVisit": "2026-01-28",
+    "lastVisit": "2026-05-02",
+    "totalVisits": 29,
+    "totalSpent": 117276,
+    "averageCheck": 4044,
+    "ltv": 117276,
+    "segment": "new",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Маникюр классический",
+      "Чистка лица"
+    ],
+    "bonusBalance": 212,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-05-02",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-02",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2026-03-03",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-01",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-02",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-03",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-03",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 4
+      },
+      {
+        "date": "2025-10-04",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl6",
+    "name": "Ирина Попова",
+    "phone": "+7 (915) 135-75-95",
+    "avatar": "ИП",
+    "email": "ирина.попова@mail.ru",
+    "birthday": "1970-06-06",
+    "firstVisit": "2025-12-06",
+    "lastVisit": "2026-03-11",
+    "totalVisits": 4,
+    "totalSpent": 17420,
+    "averageCheck": 4355,
+    "ltv": 17420,
+    "segment": "sleeping",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Маникюр с покрытием",
+      "Пилинг"
+    ],
+    "bonusBalance": 265,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-03-11",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-09",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-10",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-11",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl7",
+    "name": "Юлия Соколова",
+    "phone": "+7 (916) 142-88-12",
+    "avatar": "ЮС",
+    "email": "юлия.соколова@mail.ru",
+    "birthday": "1971-07-07",
+    "firstVisit": "2026-01-10",
+    "lastVisit": "2026-04-16",
+    "totalVisits": 11,
+    "totalSpent": 51326,
+    "averageCheck": 4666,
+    "ltv": 71326,
+    "segment": "regular",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Педикюр",
+      "Коррекция бровей"
+    ],
+    "bonusBalance": 318,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-16",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-17",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-15",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-16",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-17",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 4
+      },
+      {
+        "date": "2025-11-17",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-18",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-18",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl8",
+    "name": "Дарья Лебедева",
+    "phone": "+7 (917) 149-01-29",
+    "avatar": "ДЛ",
+    "email": "дарья.лебедева@mail.ru",
+    "birthday": "1972-08-08",
+    "firstVisit": "2025-08-17",
+    "lastVisit": "2025-11-22",
+    "totalVisits": 18,
+    "totalSpent": 89586,
+    "averageCheck": 4977,
+    "ltv": 89586,
+    "segment": "lost",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Чистка лица",
+      "Окрашивание бровей"
+    ],
+    "bonusBalance": 371,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2025-11-22",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-23",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-23",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-24",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 4
+      },
+      {
+        "date": "2025-07-25",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-06-25",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-05-26",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-04-26",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl9",
+    "name": "Алёна Козлова",
+    "phone": "+7 (918) 156-14-46",
+    "avatar": "АК",
+    "email": "алeна.козлова@mail.ru",
+    "birthday": "1973-09-09",
+    "firstVisit": "2026-01-20",
+    "lastVisit": "2026-04-28",
+    "totalVisits": 25,
+    "totalSpent": 132200,
+    "averageCheck": 5288,
+    "ltv": 132200,
+    "segment": "new",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Пилинг",
+      "Наращивание ресниц"
+    ],
+    "bonusBalance": 424,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-28",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-29",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-27",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-28",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-29",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-29",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-30",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-30",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl10",
+    "name": "Виктория Новикова",
+    "phone": "+7 (919) 163-27-63",
+    "avatar": "ВН",
+    "email": "виктория.новикова@mail.ru",
+    "birthday": "1974-10-10",
+    "firstVisit": "2026-01-04",
+    "lastVisit": "2026-04-13",
+    "totalVisits": 32,
+    "totalSpent": 179168,
+    "averageCheck": 5599,
+    "ltv": 199168,
+    "segment": "regular",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Коррекция бровей",
+      "Стрижка женская"
+    ],
+    "bonusBalance": 477,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "notes": "Аллергия на парабены — использовать только серию Davines OI",
+    "visitHistory": [
+      {
+        "date": "2026-04-13",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-14",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 4
+      },
+      {
+        "date": "2026-02-12",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-13",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-14",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-14",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-15",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-15",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl11",
+    "name": "Наталья Морозова",
+    "phone": "+7 (920) 170-40-80",
+    "avatar": "НМ",
+    "email": "наталья.морозова@mail.ru",
+    "birthday": "1975-11-11",
+    "firstVisit": "2025-12-11",
+    "lastVisit": "2026-03-21",
+    "totalVisits": 7,
+    "totalSpent": 41370,
+    "averageCheck": 5910,
+    "ltv": 41370,
+    "segment": "sleeping",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Окрашивание бровей",
+      "Окрашивание"
+    ],
+    "bonusBalance": 530,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-03-21",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-19",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-20",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-21",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-21",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-22",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-22",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl12",
+    "name": "Екатерина Волкова",
+    "phone": "+7 (921) 177-53-97",
+    "avatar": "ЕВ",
+    "email": "екатерина.волкова@mail.ru",
+    "birthday": "1976-12-12",
+    "firstVisit": "2025-12-31",
+    "lastVisit": "2026-04-11",
+    "totalVisits": 14,
+    "totalSpent": 87094,
+    "averageCheck": 6221,
+    "ltv": 107094,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Наращивание ресниц",
+      "Мелирование"
+    ],
+    "bonusBalance": 583,
+    "depositBalance": 0,
+    "noShowCount": 1,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-11",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-12",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-10",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-11",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-12",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 4
+      },
+      {
+        "date": "2025-11-12",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-13",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-13",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl13",
+    "name": "Елена Соловьёва",
+    "phone": "+7 (922) 184-66-14",
+    "avatar": "ЕС",
+    "email": "елена.соловьeва@mail.ru",
+    "birthday": "1977-01-13",
+    "firstVisit": "2026-01-24",
+    "lastVisit": "2026-05-06",
+    "totalVisits": 21,
+    "totalSpent": 137172,
+    "averageCheck": 6532,
+    "ltv": 137172,
+    "segment": "new",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Стрижка женская",
+      "Укладка"
+    ],
+    "bonusBalance": 636,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-05-06",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-06",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-07",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-05",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-06",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-07",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-07",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-08",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl14",
+    "name": "Лариса Васильева",
+    "phone": "+7 (923) 191-79-31",
+    "avatar": "ЛВ",
+    "email": "лариса.васильева@mail.ru",
+    "birthday": "1978-02-14",
+    "firstVisit": "2026-01-21",
+    "lastVisit": "2026-05-04",
+    "totalVisits": 28,
+    "totalSpent": 191604,
+    "averageCheck": 6843,
+    "ltv": 271604,
+    "segment": "vip",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Окрашивание",
+      "Маникюр классический"
+    ],
+    "bonusBalance": 4213,
+    "depositBalance": 9000,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-05-04",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-04",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-05",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 4
+      },
+      {
+        "date": "2026-02-03",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-04",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-05",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-05",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-06",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl15",
+    "name": "Полина Зайцева",
+    "phone": "+7 (924) 198-92-48",
+    "avatar": "ПЗ",
+    "email": "полина.зайцева@mail.ru",
+    "birthday": "1979-03-15",
+    "firstVisit": "2025-08-23",
+    "lastVisit": "2025-12-05",
+    "totalVisits": 3,
+    "totalSpent": 21462,
+    "averageCheck": 7154,
+    "ltv": 21462,
+    "segment": "lost",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Мелирование",
+      "Маникюр с покрытием"
+    ],
+    "bonusBalance": 742,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2025-12-05",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-05",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 4
+      },
+      {
+        "date": "2025-10-06",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl16",
+    "name": "Кристина Павлова",
+    "phone": "+7 (925) 205-05-65",
+    "avatar": "КП",
+    "email": "кристина.павлова@mail.ru",
+    "birthday": "1980-04-16",
+    "firstVisit": "2025-11-21",
+    "lastVisit": "2026-03-06",
+    "totalVisits": 10,
+    "totalSpent": 74650,
+    "averageCheck": 7465,
+    "ltv": 74650,
+    "segment": "sleeping",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Укладка",
+      "Педикюр"
+    ],
+    "bonusBalance": 795,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-03-06",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-04",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-05",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-06",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-06",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-07",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-07",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-08",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl17",
+    "name": "Ксения Семёнова",
+    "phone": "+7 (926) 212-18-82",
+    "avatar": "КС",
+    "email": "ксения.семeнова@mail.ru",
+    "birthday": "1981-05-17",
+    "firstVisit": "2026-01-16",
+    "lastVisit": "2026-05-02",
+    "totalVisits": 17,
+    "totalSpent": 132192,
+    "averageCheck": 7776,
+    "ltv": 132192,
+    "segment": "new",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Маникюр классический",
+      "Чистка лица"
+    ],
+    "bonusBalance": 848,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-05-02",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-02",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-03",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-01",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-02",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 4
+      },
+      {
+        "date": "2025-12-03",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-03",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-04",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl18",
+    "name": "Анастасия Голубева",
+    "phone": "+7 (927) 219-31-99",
+    "avatar": "АГ",
+    "email": "анастасия.голубева@mail.ru",
+    "birthday": "1982-06-18",
+    "firstVisit": "2025-12-31",
+    "lastVisit": "2026-04-17",
+    "totalVisits": 24,
+    "totalSpent": 194088,
+    "averageCheck": 8087,
+    "ltv": 214088,
+    "segment": "regular",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Маникюр с покрытием",
+      "Пилинг"
+    ],
+    "bonusBalance": 901,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-17",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-18",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-16",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-17",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 4
+      },
+      {
+        "date": "2025-12-18",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-18",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-19",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-19",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl19",
+    "name": "Софья Виноградова",
+    "phone": "+7 (928) 226-44-16",
+    "avatar": "СВ",
+    "email": "софья.виноградова@mail.ru",
+    "birthday": "1983-07-19",
+    "firstVisit": "2025-12-29",
+    "lastVisit": "2026-04-16",
+    "totalVisits": 31,
+    "totalSpent": 260338,
+    "averageCheck": 8398,
+    "ltv": 280338,
+    "segment": "regular",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Педикюр",
+      "Коррекция бровей"
+    ],
+    "bonusBalance": 954,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "notes": "Аллергия на парабены — использовать только серию Davines OI",
+    "visitHistory": [
+      {
+        "date": "2026-04-16",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-17",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-15",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-16",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-17",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-17",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-18",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-18",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl20",
+    "name": "Алина Богданова",
+    "phone": "+7 (929) 233-57-33",
+    "avatar": "АБ",
+    "email": "алина.богданова@mail.ru",
+    "birthday": "1984-08-20",
+    "firstVisit": "2025-12-27",
+    "lastVisit": "2026-04-15",
+    "totalVisits": 6,
+    "totalSpent": 52254,
+    "averageCheck": 8709,
+    "ltv": 72254,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Чистка лица",
+      "Окрашивание бровей"
+    ],
+    "bonusBalance": 1007,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-15",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-16",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 4
+      },
+      {
+        "date": "2026-02-14",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-15",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-16",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-16",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl21",
+    "name": "Александра Воробьёва",
+    "phone": "+7 (930) 240-70-50",
+    "avatar": "АВ",
+    "email": "александра.воробьeва@mail.ru",
+    "birthday": "1985-09-21",
+    "firstVisit": "2025-11-26",
+    "lastVisit": "2026-03-16",
+    "totalVisits": 13,
+    "totalSpent": 117260,
+    "averageCheck": 9020,
+    "ltv": 117260,
+    "segment": "sleeping",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Пилинг",
+      "Наращивание ресниц"
+    ],
+    "bonusBalance": 1060,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-03-16",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-14",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-15",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-16",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-16",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-17",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-17",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-18",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl22",
+    "name": "Валентина Фёдорова",
+    "phone": "+7 (931) 247-83-67",
+    "avatar": "ВФ",
+    "email": "валентина.фeдорова@mail.ru",
+    "birthday": "1986-10-22",
+    "firstVisit": "2025-08-29",
+    "lastVisit": "2025-12-18",
+    "totalVisits": 20,
+    "totalSpent": 186620,
+    "averageCheck": 9331,
+    "ltv": 186620,
+    "segment": "lost",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Коррекция бровей",
+      "Стрижка женская"
+    ],
+    "bonusBalance": 1113,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2025-12-18",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-18",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-19",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-19",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-20",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 4
+      },
+      {
+        "date": "2025-07-21",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-06-21",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-05-22",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl23",
+    "name": "Надежда Михайлова",
+    "phone": "+7 (932) 254-96-84",
+    "avatar": "НМ",
+    "email": "надежда.михайлова@mail.ru",
+    "birthday": "1987-11-23",
+    "firstVisit": "2025-12-21",
+    "lastVisit": "2026-04-12",
+    "totalVisits": 27,
+    "totalSpent": 260334,
+    "averageCheck": 9642,
+    "ltv": 280334,
+    "segment": "regular",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Окрашивание бровей",
+      "Окрашивание"
+    ],
+    "bonusBalance": 1166,
+    "depositBalance": 0,
+    "noShowCount": 1,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-12",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-13",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-11",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-12",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 4
+      },
+      {
+        "date": "2025-12-13",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-13",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-14",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-14",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl24",
+    "name": "Лидия Беляева",
+    "phone": "+7 (933) 261-09-01",
+    "avatar": "ЛБ",
+    "email": "лидия.беляева@mail.ru",
+    "birthday": "1988-12-24",
+    "firstVisit": "2025-12-19",
+    "lastVisit": "2026-04-11",
+    "totalVisits": 2,
+    "totalSpent": 19906,
+    "averageCheck": 9953,
+    "ltv": 39906,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Наращивание ресниц",
+      "Мелирование"
+    ],
+    "bonusBalance": 1219,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-11",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-12",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl25",
+    "name": "Зоя Тарасова",
+    "phone": "+7 (934) 268-22-18",
+    "avatar": "ЗТ",
+    "email": "зоя.тарасова@mail.ru",
+    "birthday": "1989-01-25",
+    "firstVisit": "2026-01-12",
+    "lastVisit": "2026-05-06",
+    "totalVisits": 9,
+    "totalSpent": 92376,
+    "averageCheck": 10264,
+    "ltv": 92376,
+    "segment": "new",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Стрижка женская",
+      "Укладка"
+    ],
+    "bonusBalance": 1272,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-05-06",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-06",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 4
+      },
+      {
+        "date": "2026-03-07",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-05",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-06",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-07",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-07",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 4
+      },
+      {
+        "date": "2025-10-08",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl26",
+    "name": "Ангелина Белова",
+    "phone": "+7 (935) 275-35-35",
+    "avatar": "АБ",
+    "email": "ангелина.белова@mail.ru",
+    "birthday": "1990-02-26",
+    "firstVisit": "2025-12-01",
+    "lastVisit": "2026-03-26",
+    "totalVisits": 16,
+    "totalSpent": 169200,
+    "averageCheck": 10575,
+    "ltv": 169200,
+    "segment": "sleeping",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Окрашивание",
+      "Маникюр классический"
+    ],
+    "bonusBalance": 1325,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-03-26",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-24",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-25",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-26",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-26",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-27",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-27",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-28",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl27",
+    "name": "Маргарита Комарова",
+    "phone": "+7 (936) 282-48-52",
+    "avatar": "МК",
+    "email": "маргарита.комарова@mail.ru",
+    "birthday": "1991-03-27",
+    "firstVisit": "2026-01-08",
+    "lastVisit": "2026-05-04",
+    "totalVisits": 23,
+    "totalSpent": 250378,
+    "averageCheck": 10886,
+    "ltv": 330378,
+    "segment": "vip",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Мелирование",
+      "Маникюр с покрытием"
+    ],
+    "bonusBalance": 4226,
+    "depositBalance": 3000,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-05-04",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-04",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-05",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-03",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-04",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 4
+      },
+      {
+        "date": "2025-12-05",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-05",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-06",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl28",
+    "name": "Любовь Орлова",
+    "phone": "+7 (937) 289-61-69",
+    "avatar": "ЛО",
+    "email": "любовь.орлова@mail.ru",
+    "birthday": "1992-04-28",
+    "firstVisit": "2025-12-23",
+    "lastVisit": "2026-04-19",
+    "totalVisits": 30,
+    "totalSpent": 335910,
+    "averageCheck": 11197,
+    "ltv": 355910,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Укладка",
+      "Педикюр"
+    ],
+    "bonusBalance": 1431,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "notes": "Аллергия на парабены — использовать только серию Davines OI",
+    "visitHistory": [
+      {
+        "date": "2026-04-19",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-20",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-18",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-19",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 4
+      },
+      {
+        "date": "2025-12-20",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-20",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-21",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-21",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl29",
+    "name": "Галина Киселёва",
+    "phone": "+7 (938) 296-74-86",
+    "avatar": "ГК",
+    "email": "галина.киселeва@mail.ru",
+    "birthday": "1993-05-01",
+    "firstVisit": "2025-09-04",
+    "lastVisit": "2025-12-31",
+    "totalVisits": 5,
+    "totalSpent": 57540,
+    "averageCheck": 11508,
+    "ltv": 57540,
+    "segment": "lost",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Маникюр классический",
+      "Чистка лица"
+    ],
+    "bonusBalance": 1484,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2025-12-31",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-01",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-01",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 4
+      },
+      {
+        "date": "2025-10-02",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-02",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl30",
+    "name": "Раиса Макарова",
+    "phone": "+7 (939) 303-87-03",
+    "avatar": "РМ",
+    "email": "раиса.макарова@mail.ru",
+    "birthday": "1994-06-02",
+    "firstVisit": "2025-12-19",
+    "lastVisit": "2026-04-17",
+    "totalVisits": 12,
+    "totalSpent": 33828,
+    "averageCheck": 2819,
+    "ltv": 53828,
+    "segment": "regular",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Маникюр с покрытием",
+      "Пилинг"
+    ],
+    "bonusBalance": 1537,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-17",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-18",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 4
+      },
+      {
+        "date": "2026-02-16",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-17",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-18",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-18",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-19",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-19",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl31",
+    "name": "Зинаида Андреева",
+    "phone": "+7 (940) 310-00-20",
+    "avatar": "ЗА",
+    "email": "зинаида.андреева@mail.ru",
+    "birthday": "1965-07-03",
+    "firstVisit": "2025-11-11",
+    "lastVisit": "2026-03-11",
+    "totalVisits": 19,
+    "totalSpent": 59470,
+    "averageCheck": 3130,
+    "ltv": 59470,
+    "segment": "sleeping",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Педикюр",
+      "Коррекция бровей"
+    ],
+    "bonusBalance": 1590,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-03-11",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-09",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-10",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-11",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-11",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-12",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-12",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-13",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl32",
+    "name": "Тамара Ковалёва",
+    "phone": "+7 (941) 317-13-37",
+    "avatar": "ТК",
+    "email": "тамара.ковалeва@mail.ru",
+    "birthday": "1966-08-04",
+    "firstVisit": "2025-12-15",
+    "lastVisit": "2026-04-15",
+    "totalVisits": 26,
+    "totalSpent": 89466,
+    "averageCheck": 3441,
+    "ltv": 109466,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Чистка лица",
+      "Окрашивание бровей"
+    ],
+    "bonusBalance": 1643,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-15",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-16",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-14",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-15",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-16",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 4
+      },
+      {
+        "date": "2025-11-16",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-17",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-17",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl33",
+    "name": "Вероника Ильина",
+    "phone": "+7 (942) 324-26-54",
+    "avatar": "ВИ",
+    "email": "вероника.ильина@mail.ru",
+    "birthday": "1967-09-05",
+    "firstVisit": "2025-12-27",
+    "lastVisit": "2026-04-28",
+    "totalVisits": 1,
+    "totalSpent": 3752,
+    "averageCheck": 3752,
+    "ltv": 3752,
+    "segment": "new",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Пилинг",
+      "Наращивание ресниц"
+    ],
+    "bonusBalance": 1696,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-28",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl34",
+    "name": "Карина Гусева",
+    "phone": "+7 (943) 331-39-71",
+    "avatar": "КГ",
+    "email": "карина.гусева@mail.ru",
+    "birthday": "1968-10-06",
+    "firstVisit": "2025-12-11",
+    "lastVisit": "2026-04-13",
+    "totalVisits": 8,
+    "totalSpent": 32504,
+    "averageCheck": 4063,
+    "ltv": 52504,
+    "segment": "regular",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Коррекция бровей",
+      "Стрижка женская"
+    ],
+    "bonusBalance": 1749,
+    "depositBalance": 0,
+    "noShowCount": 1,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-13",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-14",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-12",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-13",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-14",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-14",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-15",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-15",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl35",
+    "name": "Эльвира Титова",
+    "phone": "+7 (944) 338-52-88",
+    "avatar": "ЭТ",
+    "email": "эльвира.титова@mail.ru",
+    "birthday": "1969-11-07",
+    "firstVisit": "2025-12-09",
+    "lastVisit": "2026-04-12",
+    "totalVisits": 15,
+    "totalSpent": 65610,
+    "averageCheck": 4374,
+    "ltv": 85610,
+    "segment": "regular",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Окрашивание бровей",
+      "Окрашивание"
+    ],
+    "bonusBalance": 1802,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-12",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-13",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 4
+      },
+      {
+        "date": "2026-02-11",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-12",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-13",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-13",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-14",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-14",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl36",
+    "name": "Алла Кудрявцева",
+    "phone": "+7 (945) 345-65-05",
+    "avatar": "АК",
+    "email": "алла.кудрявцева@mail.ru",
+    "birthday": "1970-12-08",
+    "firstVisit": "2025-09-10",
+    "lastVisit": "2026-01-13",
+    "totalVisits": 22,
+    "totalSpent": 103070,
+    "averageCheck": 4685,
+    "ltv": 103070,
+    "segment": "lost",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Наращивание ресниц",
+      "Мелирование"
+    ],
+    "bonusBalance": 1855,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-01-13",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-14",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-14",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-15",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-15",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-16",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 4
+      },
+      {
+        "date": "2025-07-17",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-06-17",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl37",
+    "name": "Нина Баранова",
+    "phone": "+7 (946) 352-78-22",
+    "avatar": "НБ",
+    "email": "нина.баранова@mail.ru",
+    "birthday": "1971-01-09",
+    "firstVisit": "2025-12-31",
+    "lastVisit": "2026-05-06",
+    "totalVisits": 29,
+    "totalSpent": 144884,
+    "averageCheck": 4996,
+    "ltv": 144884,
+    "segment": "new",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Стрижка женская",
+      "Укладка"
+    ],
+    "bonusBalance": 1908,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "notes": "Аллергия на парабены — использовать только серию Davines OI",
+    "visitHistory": [
+      {
+        "date": "2026-05-06",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-06",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-07",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-05",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-06",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 4
+      },
+      {
+        "date": "2025-12-07",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-07",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-08",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl38",
+    "name": "Лилия Куликова",
+    "phone": "+7 (947) 359-91-39",
+    "avatar": "ЛК",
+    "email": "лилия.куликова@mail.ru",
+    "birthday": "1972-02-10",
+    "firstVisit": "2025-12-15",
+    "lastVisit": "2026-04-21",
+    "totalVisits": 4,
+    "totalSpent": 21228,
+    "averageCheck": 5307,
+    "ltv": 41228,
+    "segment": "regular",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Окрашивание",
+      "Маникюр классический"
+    ],
+    "bonusBalance": 1961,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-21",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-22",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-20",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-21",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl39",
+    "name": "Жанна Алексеева",
+    "phone": "+7 (948) 366-04-56",
+    "avatar": "ЖА",
+    "email": "жанна.алексеева@mail.ru",
+    "birthday": "1973-03-11",
+    "firstVisit": "2025-12-13",
+    "lastVisit": "2026-04-20",
+    "totalVisits": 11,
+    "totalSpent": 61798,
+    "averageCheck": 5618,
+    "ltv": 81798,
+    "segment": "regular",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Мелирование",
+      "Маникюр с покрытием"
+    ],
+    "bonusBalance": 2014,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-20",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-21",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-19",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-20",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-21",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-21",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-22",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-22",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl40",
+    "name": "Стелла Степанова",
+    "phone": "+7 (949) 373-17-73",
+    "avatar": "СС",
+    "email": "стелла.степанова@mail.ru",
+    "birthday": "1974-04-12",
+    "firstVisit": "2025-12-26",
+    "lastVisit": "2026-05-04",
+    "totalVisits": 18,
+    "totalSpent": 106722,
+    "averageCheck": 5929,
+    "ltv": 186722,
+    "segment": "vip",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Укладка",
+      "Педикюр"
+    ],
+    "bonusBalance": 4239,
+    "depositBalance": 12000,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-05-04",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-04",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 4
+      },
+      {
+        "date": "2026-03-05",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-03",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-04",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-05",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-05",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 4
+      },
+      {
+        "date": "2025-10-06",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl41",
+    "name": "Регина Яковлева",
+    "phone": "+7 (950) 380-30-90",
+    "avatar": "РЯ",
+    "email": "регина.яковлева@mail.ru",
+    "birthday": "1975-05-13",
+    "firstVisit": "2025-10-27",
+    "lastVisit": "2026-03-06",
+    "totalVisits": 25,
+    "totalSpent": 156000,
+    "averageCheck": 6240,
+    "ltv": 156000,
+    "segment": "sleeping",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Маникюр классический",
+      "Чистка лица"
+    ],
+    "bonusBalance": 2120,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-03-06",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-04",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-05",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-06",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-06",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-07",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-07",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-08",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl42",
+    "name": "Эльмира Сорокина",
+    "phone": "+7 (951) 387-43-07",
+    "avatar": "ЭС",
+    "email": "эльмира.сорокина@mail.ru",
+    "birthday": "1976-06-14",
+    "firstVisit": "2025-12-07",
+    "lastVisit": "2026-04-17",
+    "totalVisits": 32,
+    "totalSpent": 209632,
+    "averageCheck": 6551,
+    "ltv": 229632,
+    "segment": "regular",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Маникюр с покрытием",
+      "Пилинг"
+    ],
+    "bonusBalance": 2173,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-17",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-18",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-16",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-17",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-18",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 4
+      },
+      {
+        "date": "2025-11-18",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-19",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-19",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl43",
+    "name": "Дина Сергеева",
+    "phone": "+7 (952) 394-56-24",
+    "avatar": "ДС",
+    "email": "дина.сергеева@mail.ru",
+    "birthday": "1977-07-15",
+    "firstVisit": "2025-09-16",
+    "lastVisit": "2026-01-26",
+    "totalVisits": 7,
+    "totalSpent": 48034,
+    "averageCheck": 6862,
+    "ltv": 48034,
+    "segment": "lost",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Педикюр",
+      "Коррекция бровей"
+    ],
+    "bonusBalance": 2226,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-01-26",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-27",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-27",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-28",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-28",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-29",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-07-30",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl44",
+    "name": "Инна Романова",
+    "phone": "+7 (953) 401-69-41",
+    "avatar": "ИР",
+    "email": "инна.романова@mail.ru",
+    "birthday": "1978-08-16",
+    "firstVisit": "2025-12-03",
+    "lastVisit": "2026-04-15",
+    "totalVisits": 14,
+    "totalSpent": 100422,
+    "averageCheck": 7173,
+    "ltv": 120422,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Чистка лица",
+      "Окрашивание бровей"
+    ],
+    "bonusBalance": 2279,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-15",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-16",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-14",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-15",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-16",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-16",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-17",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-17",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl45",
+    "name": "Майя Захарова",
+    "phone": "+7 (954) 408-82-58",
+    "avatar": "МЗ",
+    "email": "майя.захарова@mail.ru",
+    "birthday": "1979-09-17",
+    "firstVisit": "2025-12-15",
+    "lastVisit": "2026-04-28",
+    "totalVisits": 21,
+    "totalSpent": 157164,
+    "averageCheck": 7484,
+    "ltv": 157164,
+    "segment": "new",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Пилинг",
+      "Наращивание ресниц"
+    ],
+    "bonusBalance": 2332,
+    "depositBalance": 0,
+    "noShowCount": 1,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-28",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-29",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 4
+      },
+      {
+        "date": "2026-02-27",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-28",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-29",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-29",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-30",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-30",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl46",
+    "name": "Снежана Борисова",
+    "phone": "+7 (955) 415-95-75",
+    "avatar": "СБ",
+    "email": "снежана.борисова@mail.ru",
+    "birthday": "1980-10-18",
+    "firstVisit": "2025-11-01",
+    "lastVisit": "2026-03-16",
+    "totalVisits": 28,
+    "totalSpent": 218260,
+    "averageCheck": 7795,
+    "ltv": 218260,
+    "segment": "sleeping",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Коррекция бровей",
+      "Стрижка женская"
+    ],
+    "bonusBalance": 2385,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "notes": "Аллергия на парабены — использовать только серию Davines OI",
+    "visitHistory": [
+      {
+        "date": "2026-03-16",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-14",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-15",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-16",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-16",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-17",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-17",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-18",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl47",
+    "name": "Виолетта Королёва",
+    "phone": "+7 (956) 422-08-92",
+    "avatar": "ВК",
+    "email": "виолетта.королeва@mail.ru",
+    "birthday": "1981-11-19",
+    "firstVisit": "2025-11-27",
+    "lastVisit": "2026-04-12",
+    "totalVisits": 3,
+    "totalSpent": 24318,
+    "averageCheck": 8106,
+    "ltv": 44318,
+    "segment": "regular",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Окрашивание бровей",
+      "Окрашивание"
+    ],
+    "bonusBalance": 38,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-12",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-13",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-11",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl48",
+    "name": "Юлиана Гончарова",
+    "phone": "+7 (957) 429-21-09",
+    "avatar": "ЮГ",
+    "email": "юлиана.гончарова@mail.ru",
+    "birthday": "1982-12-20",
+    "firstVisit": "2025-11-25",
+    "lastVisit": "2026-04-11",
+    "totalVisits": 10,
+    "totalSpent": 84170,
+    "averageCheck": 8417,
+    "ltv": 104170,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Наращивание ресниц",
+      "Мелирование"
+    ],
+    "bonusBalance": 91,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": true,
+    "visitHistory": [
+      {
+        "date": "2026-04-11",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-12",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-10",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-11",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 4
+      },
+      {
+        "date": "2025-12-12",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-12",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-13",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-13",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl49",
+    "name": "Карина Никитина",
+    "phone": "+7 (958) 436-34-26",
+    "avatar": "КН",
+    "email": "карина.никитина@mail.ru",
+    "birthday": "1983-01-21",
+    "firstVisit": "2025-12-19",
+    "lastVisit": "2026-05-06",
+    "totalVisits": 17,
+    "totalSpent": 148376,
+    "averageCheck": 8728,
+    "ltv": 148376,
+    "segment": "new",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Стрижка женская",
+      "Укладка"
+    ],
+    "bonusBalance": 144,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-05-06",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-06",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-07",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 4
+      },
+      {
+        "date": "2026-02-05",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-06",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-07",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-07",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-08",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl50",
+    "name": "Альбина Антонова",
+    "phone": "+7 (959) 443-47-43",
+    "avatar": "АА",
+    "email": "альбина.антонова@mail.ru",
+    "birthday": "1984-02-22",
+    "firstVisit": "2025-06-24",
+    "lastVisit": "2025-11-10",
+    "totalVisits": 24,
+    "totalSpent": 216936,
+    "averageCheck": 9039,
+    "ltv": 216936,
+    "segment": "lost",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Окрашивание",
+      "Маникюр классический"
+    ],
+    "bonusBalance": 197,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2025-11-10",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-11",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-11",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-12",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-07-13",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-06-13",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-05-14",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 4
+      },
+      {
+        "date": "2025-04-14",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl51",
+    "name": "Тамила Богачёва",
+    "phone": "+7 (960) 450-60-60",
+    "avatar": "ТБ",
+    "email": "тамила.богачeва@mail.ru",
+    "birthday": "1985-03-23",
+    "firstVisit": "2025-11-06",
+    "lastVisit": "2026-03-26",
+    "totalVisits": 31,
+    "totalSpent": 289850,
+    "averageCheck": 9350,
+    "ltv": 289850,
+    "segment": "sleeping",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Мелирование",
+      "Маникюр с покрытием"
+    ],
+    "bonusBalance": 250,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-03-26",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-24",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-25",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-26",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-26",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-27",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-27",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-28",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl52",
+    "name": "Эвелина Калинина",
+    "phone": "+7 (961) 457-73-77",
+    "avatar": "ЭК",
+    "email": "эвелина.калинина@mail.ru",
+    "birthday": "1986-04-24",
+    "firstVisit": "2025-11-29",
+    "lastVisit": "2026-04-19",
+    "totalVisits": 6,
+    "totalSpent": 57966,
+    "averageCheck": 9661,
+    "ltv": 77966,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Укладка",
+      "Педикюр"
+    ],
+    "bonusBalance": 303,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-19",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-20",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-18",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-19",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-20",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 4
+      },
+      {
+        "date": "2025-11-20",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl53",
+    "name": "Влада Воронова",
+    "phone": "+7 (962) 464-86-94",
+    "avatar": "ВВ",
+    "email": "влада.воронова@mail.ru",
+    "birthday": "1987-05-25",
+    "firstVisit": "2025-12-13",
+    "lastVisit": "2026-05-04",
+    "totalVisits": 13,
+    "totalSpent": 129636,
+    "averageCheck": 9972,
+    "ltv": 209636,
+    "segment": "vip",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Маникюр классический",
+      "Чистка лица"
+    ],
+    "bonusBalance": 4252,
+    "depositBalance": 6000,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-05-04",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2026-04-04",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-05",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-03",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-04",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-05",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-05",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-06",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl54",
+    "name": "Ника Ширяева",
+    "phone": "+7 (963) 471-99-11",
+    "avatar": "НШ",
+    "email": "ника.ширяева@mail.ru",
+    "birthday": "1988-06-26",
+    "firstVisit": "2025-11-25",
+    "lastVisit": "2026-04-17",
+    "totalVisits": 20,
+    "totalSpent": 205660,
+    "averageCheck": 10283,
+    "ltv": 225660,
+    "segment": "regular",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Маникюр с покрытием",
+      "Пилинг"
+    ],
+    "bonusBalance": 409,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-17",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-18",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-16",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-17",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-18",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-18",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-19",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-19",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl55",
+    "name": "Мирослава Митрофанова",
+    "phone": "+7 (964) 478-12-28",
+    "avatar": "ММ",
+    "email": "мирослава.митрофанова@mail.ru",
+    "birthday": "1989-07-27",
+    "firstVisit": "2025-11-23",
+    "lastVisit": "2026-04-16",
+    "totalVisits": 27,
+    "totalSpent": 286038,
+    "averageCheck": 10594,
+    "ltv": 306038,
+    "segment": "regular",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Педикюр",
+      "Коррекция бровей"
+    ],
+    "bonusBalance": 462,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "notes": "Аллергия на парабены — использовать только серию Davines OI",
+    "visitHistory": [
+      {
+        "date": "2026-04-16",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-17",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 4
+      },
+      {
+        "date": "2026-02-15",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-16",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-17",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-17",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-18",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-18",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl56",
+    "name": "Илона Симакова",
+    "phone": "+7 (965) 485-25-45",
+    "avatar": "ИС",
+    "email": "илона.симакова@mail.ru",
+    "birthday": "1990-08-28",
+    "firstVisit": "2025-10-17",
+    "lastVisit": "2026-03-11",
+    "totalVisits": 2,
+    "totalSpent": 21810,
+    "averageCheck": 10905,
+    "ltv": 21810,
+    "segment": "sleeping",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Чистка лица",
+      "Окрашивание бровей"
+    ],
+    "bonusBalance": 515,
+    "depositBalance": 0,
+    "noShowCount": 1,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-03-11",
+        "service": "Чистка лица",
+        "master": "Катя Романова",
+        "amount": 6500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-09",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl57",
+    "name": "Анна Петрова",
+    "phone": "+7 (966) 492-38-62",
+    "avatar": "АП",
+    "email": "анна.петрова@mail.ru",
+    "birthday": "1991-09-01",
+    "firstVisit": "2025-06-30",
+    "lastVisit": "2025-11-23",
+    "totalVisits": 9,
+    "totalSpent": 100944,
+    "averageCheck": 11216,
+    "ltv": 100944,
+    "segment": "lost",
+    "favoriteMaster": "Алина Сафронова",
+    "favoriteMasterAvatar": "АС",
+    "preferredServices": [
+      "Пилинг",
+      "Наращивание ресниц"
+    ],
+    "bonusBalance": 568,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2025-11-23",
+        "service": "Пилинг",
+        "master": "Алина Сафронова",
+        "amount": 5500,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-24",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-24",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2025-08-25",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2025-07-26",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2025-06-26",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-05-27",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-04-27",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl58",
+    "name": "Мария Иванова",
+    "phone": "+7 (967) 499-51-79",
+    "avatar": "МИ",
+    "email": "мария.иванова@mail.ru",
+    "birthday": "1992-10-02",
+    "firstVisit": "2025-11-17",
+    "lastVisit": "2026-04-13",
+    "totalVisits": 16,
+    "totalSpent": 184432,
+    "averageCheck": 11527,
+    "ltv": 204432,
+    "segment": "regular",
+    "favoriteMaster": "Мария Орлова",
+    "favoriteMasterAvatar": "МО",
+    "preferredServices": [
+      "Коррекция бровей",
+      "Стрижка женская"
+    ],
+    "bonusBalance": 621,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-13",
+        "service": "Коррекция бровей",
+        "master": "Мария Орлова",
+        "amount": 2000,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-14",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-12",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-13",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2025-12-14",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-14",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-15",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-15",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "cl59",
+    "name": "Ольга Сидорова",
+    "phone": "+7 (968) 506-64-96",
+    "avatar": "ОС",
+    "email": "ольга.сидорова@mail.ru",
+    "birthday": "1993-11-03",
+    "firstVisit": "2025-11-15",
+    "lastVisit": "2026-04-12",
+    "totalVisits": 23,
+    "totalSpent": 65274,
+    "averageCheck": 2838,
+    "ltv": 85274,
+    "segment": "regular",
+    "favoriteMaster": "Полина Левина",
+    "favoriteMasterAvatar": "ПЛ",
+    "preferredServices": [
+      "Окрашивание бровей",
+      "Окрашивание"
+    ],
+    "bonusBalance": 674,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-12",
+        "service": "Окрашивание бровей",
+        "master": "Полина Левина",
+        "amount": 1500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-13",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-02-11",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2026-01-12",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-13",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-13",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-14",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-09-14",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": "cl60",
+    "name": "Татьяна Смирнова",
+    "phone": "+7 (969) 513-77-13",
+    "avatar": "ТС",
+    "email": "татьяна.смирнова@mail.ru",
+    "birthday": "1994-12-04",
+    "firstVisit": "2025-11-13",
+    "lastVisit": "2026-04-11",
+    "totalVisits": 30,
+    "totalSpent": 94470,
+    "averageCheck": 3149,
+    "ltv": 114470,
+    "segment": "regular",
+    "favoriteMaster": "Катя Романова",
+    "favoriteMasterAvatar": "КР",
+    "preferredServices": [
+      "Наращивание ресниц",
+      "Мелирование"
+    ],
+    "bonusBalance": 727,
+    "depositBalance": 0,
+    "noShowCount": 0,
+    "blacklisted": false,
+    "visitHistory": [
+      {
+        "date": "2026-04-11",
+        "service": "Наращивание ресниц",
+        "master": "Катя Романова",
+        "amount": 4500,
+        "rating": 5
+      },
+      {
+        "date": "2026-03-12",
+        "service": "Стрижка женская",
+        "master": "Алина Сафронова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2026-02-10",
+        "service": "Окрашивание",
+        "master": "Мария Орлова",
+        "amount": 8500,
+        "rating": 5
+      },
+      {
+        "date": "2026-01-11",
+        "service": "Мелирование",
+        "master": "Полина Левина",
+        "amount": 12000,
+        "rating": 5
+      },
+      {
+        "date": "2025-12-12",
+        "service": "Укладка",
+        "master": "Катя Романова",
+        "amount": 1800,
+        "rating": 5
+      },
+      {
+        "date": "2025-11-12",
+        "service": "Маникюр классический",
+        "master": "Алина Сафронова",
+        "amount": 2800,
+        "rating": 5
+      },
+      {
+        "date": "2025-10-13",
+        "service": "Маникюр с покрытием",
+        "master": "Мария Орлова",
+        "amount": 3500,
+        "rating": 4
+      },
+      {
+        "date": "2025-09-13",
+        "service": "Педикюр",
+        "master": "Полина Левина",
+        "amount": 3200,
+        "rating": 5
+      }
+    ]
+  }
+]

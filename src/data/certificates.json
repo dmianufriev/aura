@@ -1,0 +1,145 @@
+[
+  {
+    "id": "cert1",
+    "code": "AURA-1000",
+    "amount": 3000,
+    "buyerName": "Анна Петрова",
+    "recipientName": "Дарья Лебедева",
+    "issuedAt": "2026-05-10",
+    "expiresAt": "2026-11-06",
+    "status": "redeemed"
+  },
+  {
+    "id": "cert2",
+    "code": "AURA-1001",
+    "amount": 5000,
+    "buyerName": "Татьяна Смирнова",
+    "issuedAt": "2026-04-28",
+    "expiresAt": "2026-10-25",
+    "status": "active"
+  },
+  {
+    "id": "cert3",
+    "code": "AURA-1002",
+    "amount": 10000,
+    "buyerName": "Юлия Соколова",
+    "recipientName": "Лариса Васильева",
+    "issuedAt": "2026-04-16",
+    "expiresAt": "2026-10-13",
+    "status": "active"
+  },
+  {
+    "id": "cert4",
+    "code": "AURA-1003",
+    "amount": 15000,
+    "buyerName": "Виктория Новикова",
+    "issuedAt": "2026-04-04",
+    "expiresAt": "2026-10-01",
+    "status": "active"
+  },
+  {
+    "id": "cert5",
+    "code": "AURA-1004",
+    "amount": 3000,
+    "buyerName": "Елена Соловьёва",
+    "recipientName": "Алина Богданова",
+    "issuedAt": "2026-03-23",
+    "expiresAt": "2026-09-19",
+    "status": "active"
+  },
+  {
+    "id": "cert6",
+    "code": "AURA-1005",
+    "amount": 5000,
+    "buyerName": "Кристина Павлова",
+    "issuedAt": "2026-03-11",
+    "expiresAt": "2026-09-07",
+    "status": "active"
+  },
+  {
+    "id": "cert7",
+    "code": "AURA-1006",
+    "amount": 10000,
+    "buyerName": "Софья Виноградова",
+    "recipientName": "Ангелина Белова",
+    "issuedAt": "2026-02-27",
+    "expiresAt": "2026-08-26",
+    "status": "active"
+  },
+  {
+    "id": "cert8",
+    "code": "AURA-1007",
+    "amount": 15000,
+    "buyerName": "Валентина Фёдорова",
+    "issuedAt": "2026-02-15",
+    "expiresAt": "2026-08-14",
+    "status": "redeemed"
+  },
+  {
+    "id": "cert9",
+    "code": "AURA-1008",
+    "amount": 3000,
+    "buyerName": "Зоя Тарасова",
+    "recipientName": "Тамара Ковалёва",
+    "issuedAt": "2026-02-03",
+    "expiresAt": "2026-08-02",
+    "status": "active"
+  },
+  {
+    "id": "cert10",
+    "code": "AURA-1009",
+    "amount": 5000,
+    "buyerName": "Любовь Орлова",
+    "issuedAt": "2026-01-22",
+    "expiresAt": "2026-07-21",
+    "status": "active"
+  },
+  {
+    "id": "cert11",
+    "code": "AURA-1010",
+    "amount": 10000,
+    "buyerName": "Зинаида Андреева",
+    "recipientName": "Лилия Куликова",
+    "issuedAt": "2026-01-10",
+    "expiresAt": "2026-07-09",
+    "status": "active"
+  },
+  {
+    "id": "cert12",
+    "code": "AURA-1011",
+    "amount": 15000,
+    "buyerName": "Карина Гусева",
+    "issuedAt": "2025-12-29",
+    "expiresAt": "2026-06-27",
+    "status": "expired"
+  },
+  {
+    "id": "cert13",
+    "code": "AURA-1012",
+    "amount": 3000,
+    "buyerName": "Нина Баранова",
+    "recipientName": "Инна Романова",
+    "issuedAt": "2025-12-17",
+    "expiresAt": "2026-06-15",
+    "status": "active"
+  },
+  {
+    "id": "cert14",
+    "code": "AURA-1013",
+    "amount": 5000,
+    "buyerName": "Стелла Степанова",
+    "issuedAt": "2025-12-05",
+    "expiresAt": "2026-06-03",
+    "status": "active"
+  },
+  {
+    "id": "cert15",
+    "code": "AURA-1014",
+    "amount": 10000,
+    "buyerName": "Дина Сергеева",
+    "recipientName": "Альбина Антонова",
+    "issuedAt": "2025-11-23",
+    "expiresAt": "2026-05-22",
+    "status": "redeemed"
+  }
+]

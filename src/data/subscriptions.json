@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sub1",
+    "clientName": "Мария Иванова",
+    "clientAvatar": "МИ",
+    "packName": "Абонемент Маникюр на 4 визитов",
+    "totalVisits": 4,
+    "usedVisits": 0,
+    "remainingDays": 90,
+    "paidAmount": 9520
+  },
+  {
+    "id": "sub2",
+    "clientName": "Юлия Соколова",
+    "clientAvatar": "ЮС",
+    "packName": "Абонемент Чистка лица на 8 визитов",
+    "totalVisits": 8,
+    "usedVisits": 2,
+    "remainingDays": 85,
+    "paidAmount": 35200
+  },
+  {
+    "id": "sub3",
+    "clientName": "Екатерина Волкова",
+    "clientAvatar": "ЕВ",
+    "packName": "Абонемент Стрижка + укладка на 12 визитов",
+    "totalVisits": 12,
+    "usedVisits": 4,
+    "remainingDays": 80,
+    "paidAmount": 28800
+  },
+  {
+    "id": "sub4",
+    "clientName": "Ксения Семёнова",
+    "clientAvatar": "КС",
+    "packName": "Абонемент Маникюр на 4 визитов",
+    "totalVisits": 4,
+    "usedVisits": 2,
+    "remainingDays": 75,
+    "paidAmount": 9520
+  },
+  {
+    "id": "sub5",
+    "clientName": "Валентина Фёдорова",
+    "clientAvatar": "ВФ",
+    "packName": "Абонемент Чистка лица на 8 визитов",
+    "totalVisits": 8,
+    "usedVisits": 0,
+    "remainingDays": 70,
+    "paidAmount": 35200
+  },
+  {
+    "id": "sub6",
+    "clientName": "Маргарита Комарова",
+    "clientAvatar": "МК",
+    "packName": "Абонемент Стрижка + укладка на 12 визитов",
+    "totalVisits": 12,
+    "usedVisits": 10,
+    "remainingDays": 65,
+    "paidAmount": 28800
+  },
+  {
+    "id": "sub7",
+    "clientName": "Тамара Ковалёва",
+    "clientAvatar": "ТК",
+    "packName": "Абонемент Маникюр на 4 визитов",
+    "totalVisits": 4,
+    "usedVisits": 0,
+    "remainingDays": 60,
+    "paidAmount": 9520
+  },
+  {
+    "id": "sub8",
+    "clientName": "Нина Баранова",
+    "clientAvatar": "НБ",
+    "packName": "Абонемент Чистка лица на 8 визитов",
+    "totalVisits": 8,
+    "usedVisits": 6,
+    "remainingDays": 55,
+    "paidAmount": 35200
+  },
+  {
+    "id": "sub9",
+    "clientName": "Эльмира Сорокина",
+    "clientAvatar": "ЭС",
+    "packName": "Абонемент Стрижка + укладка на 12 визитов",
+    "totalVisits": 12,
+    "usedVisits": 4,
+    "remainingDays": 50,
+    "paidAmount": 28800
+  },
+  {
+    "id": "sub10",
+    "clientName": "Виолетта Королёва",
+    "clientAvatar": "ВК",
+    "packName": "Абонемент Маникюр на 4 визитов",
+    "totalVisits": 4,
+    "usedVisits": 2,
+    "remainingDays": 45,
+    "paidAmount": 9520
+  },
+  {
+    "id": "sub11",
+    "clientName": "Эвелина Калинина",
+    "clientAvatar": "ЭК",
+    "packName": "Абонемент Чистка лица на 8 визитов",
+    "totalVisits": 8,
+    "usedVisits": 4,
+    "remainingDays": 40,
+    "paidAmount": 35200
+  },
+  {
+    "id": "sub12",
+    "clientName": "Анна Петрова",
+    "clientAvatar": "АП",
+    "packName": "Абонемент Стрижка + укладка на 12 визитов",
+    "totalVisits": 12,
+    "usedVisits": 10,
+    "remainingDays": 35,
+    "paidAmount": 28800
+  }
+]
